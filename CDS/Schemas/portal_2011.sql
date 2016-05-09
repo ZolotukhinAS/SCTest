@@ -1,0 +1,3 @@
+CREATE SCHEMA [portal_2011]
+	AUTHORIZATION [dbo]
+GO
